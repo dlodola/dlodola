@@ -1,1 +1,1 @@
-[![LinkedIn](LI-In-Bug.png)](https://www.linkedin.com/in/domenico-lodola/)
+[![LinkedIn](LI-In-Bug.png=50x50)](https://www.linkedin.com/in/domenico-lodola/)
