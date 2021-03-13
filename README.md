@@ -1,1 +1,1 @@
-[<img src="LI-In-Bug.png" height="50">](https://www.linkedin.com/in/domenico-lodola/)
+[<img src="LI-In-Bug.png" height="30">](https://www.linkedin.com/in/domenico-lodola/) some text
